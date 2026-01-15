@@ -13,7 +13,7 @@ def add_task(task_listbox, task_entry):
     task_text = task_entry.get()
     if task_text and task_text != "enter a new task :":
         task_text.delete("enter a new task :")
-        tasks = open("tasks.txt","a+")
+        tasks = open("To_do_list/tasks.txt","a+")
         tasks.write(task_text + "\n")
         listoftasks = tasks.readlines()
         tasks.close()
