@@ -48,3 +48,7 @@ def myGUI ():
 
 myGUI()
 root.mainloop()
+
+number=input("whats your favorite number?")
+number = float(number)
+print(" your favorite number is ", number)
