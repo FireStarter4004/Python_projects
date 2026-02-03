@@ -1,0 +1,4 @@
+# The first error I am facing with is when I run the program and I type something into the text box, sometimes it dosent update the file, and sometimes it does.
+# I'm having trouble with importing modules, I had to change around some of my file paths, as the storage it was in ran out of space.
+# Whenever I entered, I could not figure out how to make the words already in the entry box not show up in the To do list.
+# Would it be smart to switch from file IO and learn how to do Json files?
